@@ -1,0 +1,88 @@
+[
+    {
+        "id": "building_1",
+        "name": "Blok 42",
+        "address": "Sofia, Mladost 4a, Building 42",
+        "type": "commercial",
+        "floors": [
+            {
+                "id": "floor_1",
+                "name": "Floor 1"
+            },
+            {
+                "id": "floor_2",
+                "name": "Floor 2"
+            },
+            {
+                "id": "floor_3",
+                "name": "Floor 3"
+            }
+        ],
+        "offices": [
+            {
+                "id": "office_1",
+                "name": "Office 1"
+            }
+        ],
+        "rooms": [
+            {
+                "id": "room_1",
+                "name": "Room 1"
+            }
+        ],
+        "devices": [
+            {
+                "id": "device_1",
+                "name": "device 1",
+                "isOnline": true
+            },
+            {
+                "id": "device_2",
+                "name": "device 2",
+                "isOnline": false
+            },
+            {
+                "id": "device_3",
+                "name": "device 3",
+                "isOnline": true
+            },
+            {
+                "id": "device_4",
+                "name": "device 4",
+                "isOnline": true
+            }
+        ]
+    },
+    {
+        "id": "building_2",
+        "name": "Blok 43",
+        "address": "Sofia, Mladost 4a, Building 43",
+        "type": "commercial",
+        "floors": [
+        ],
+        "offices": [
+            {
+                "id": "office_1",
+                "name": "Office 1"
+            }
+        ],
+        "rooms": [
+            {
+                "id": "room_1",
+                "name": "Room 1"
+            }
+        ],
+        "devices": [
+            {
+                "id": "device_1",
+                "name": "device 1",
+                "isOnline": true
+            },
+            {
+                "id": "device_2",
+                "name": "device 2",
+                "isOnline": false
+            }
+        ]
+    }
+]
